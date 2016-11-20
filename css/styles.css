@@ -1,0 +1,33 @@
+body{
+    font-size: 12px;    
+}
+ul{
+    margin-left: -40px;
+    list-style: none;
+}
+img{
+    margin-bottom: 10px;
+}
+.borda-cartao{
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    border-color:#b1adad;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px #888888;
+    
+}
+.borda-info{
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    border-color:#b1adad;
+    border-radius: 4px;
+    
+}
+
+
+.conteudo{
+    max-width: 300px;
+    max-height: 500px;
+}
