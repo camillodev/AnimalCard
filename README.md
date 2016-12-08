@@ -2,4 +2,4 @@
 
 Trabalho do curso de Front End da Udacity
 
-<a href="https://rcamillo.github.io/AnimalCard/">Acesse o projeto</a>
+<a href="https://camillodev.github.io/AnimalCard/">Acesse o projeto</a>
